@@ -1,0 +1,2 @@
+pick-place-robot/gazebo_grasp_plugin:pick-place-robot/kr210_claw_moveit:pick-place-robot/kuka_arm
+-DCATKIN_DEVEL_PREFIX=/home/austin/Robo/work_spaces/salman-H/devel -DCMAKE_INSTALL_PREFIX=/home/austin/Robo/work_spaces/salman-H/install -G Unix Makefiles

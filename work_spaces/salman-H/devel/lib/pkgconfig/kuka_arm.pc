@@ -1,0 +1,8 @@
+prefix=/home/austin/Robo/work_spaces/salman-H/devel
+
+Name: kuka_arm
+Description: Description of kuka_arm
+Version: 0.0.0
+Cflags: -I/home/austin/Robo/work_spaces/salman-H/devel/include
+Libs: -L/home/austin/Robo/work_spaces/salman-H/devel/lib 
+Requires: 

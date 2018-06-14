@@ -1,0 +1,31 @@
+# ROS 
+#  Trello : https://trello.com/b/uvpHf53m/ros
+
+2/1/16
+	- watching webinar : https://www.youtube.com/watch?v=cPJsNqZdm6E&index=1&list=PLK0b4e05LnzaguKPzW4hCVclNWu1dbT3m
+	- using Robotigniteacademy : doing course https://www.robotigniteacademy.com/en/course/ros-industrial-101_11_0/
+	
+
+28/1/16
+	- following http://wiki.ros.org/ROS/Tutorials (Beginner Level)
+		- 1.1 completed
+		- 1.2  	
+		- completed till 1.6
+
+26/1/18
+	-  install ubuntu 16.04 as primary os.
+	-  apt install ros-kinetic-desktop-full
+
+11/1/18
+	- rosdep init
+	- rosdep update
+	- echo "source /opt/ros/kinetic/setup.bash" >> ~/.bashrc
+	- source ~/.bashrc
+	- apt-get install python-rosinstall python-rosinstall-generator python-wstool build-essential
+
+
+10/1/18
+Install ROS (docker start -ia ros)
+	- Installed ros-kinetic-desktop-full
+12/2/18 
+Simualting ROS industrial : https://github.com/ros-industrial/universal_robot

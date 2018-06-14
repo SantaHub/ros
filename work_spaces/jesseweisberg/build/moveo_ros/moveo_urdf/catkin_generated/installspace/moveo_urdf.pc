@@ -1,0 +1,8 @@
+prefix=/home/austin/Robo/work_spaces/jesseweisberg/install
+
+Name: moveo_urdf
+Description: Description of moveo_urdf
+Version: 1.0.0
+Cflags: 
+Libs: -L/home/austin/Robo/work_spaces/jesseweisberg/install/lib 
+Requires: 
